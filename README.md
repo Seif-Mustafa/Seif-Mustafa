@@ -65,8 +65,8 @@
 
 ## 📫 **Connect with Me**
 
-- 📧 Email: [seifeldeenmostafa100@gmail.com](mailto:seifeldeenmostafa000@gmail.com)  
-- 💼 LinkedIn: [[linkedin.com/in/seif-el-deen](https://www.linkedin.com/in/seif-el-deen-mostafa-39a0531b6/)])  
+- 📧 Email: [seifeldeenmostafa000@gmail.com](mailto:seifeldeenmostafa000@gmail.com)  
+- 💼 LinkedIn: [[linkedin.com/in/seif-mostafa](https://www.linkedin.com/in/seif-el-deen-mostafa-39a0531b6/)])  
 - 🗂️ Portfolio: [GitHub Projects](https://github.com/Seif-Mustafa)  
 
 ---
