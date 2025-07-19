@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Seif El-Deen Mostafa  
+# 👋 Hi there, I'm Seif Mostafa  
 **Software Engineer | Mobile & Web Developer | Data Enthusiast**
 
 ---
